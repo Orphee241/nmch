@@ -9,6 +9,9 @@
 html{
     overflow-x: hidden;
 }
+body{
+    overflow: hidden;
+}
 
 /* Mon css style="margin-left: auto; margin-right: auto; width: 38%;" */
 
