@@ -6,6 +6,10 @@
     --dark: #12141D;
 }
 
+html{
+    overflow-x: hidden;
+}
+
 /* Mon css style="margin-left: auto; margin-right: auto; width: 38%;" */
 
 .mecontacter{
